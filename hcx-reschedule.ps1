@@ -19,7 +19,7 @@ foreach ($migration in $list_of_migrations)     {
 
 
 
-    Set-HCXMigration -ScheduleStartTime '06/07/2019 3:05 PM' -ScheduleEndTime '06/17/2019 3:15 PM' -Migration $migration -Whatif $true
+    Set-HCXMigration -ScheduleStartTime '06/07/2019 3:05 PM' -ScheduleEndTime '06/17/2019 3:15 PM' -Migration $migration -Whatif
 
 
 
