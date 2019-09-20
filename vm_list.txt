@@ -1,0 +1,8 @@
+VM-Name-01
+VM-Name-02
+VM-Name-03
+VM-Name-04
+VM-Name-05
+VM-Name-06
+MigrateThisVM-05
+MigrateThisVM-07
